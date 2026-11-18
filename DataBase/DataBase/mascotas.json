@@ -1,0 +1,13 @@
+[
+    {
+        "Nombre": "coki",
+        "ValorConsulta": 20000.0,
+        "TipoAnimal": "perro",
+        "IdPropietario": "12345",
+        "Evaluacion_Inicial": {
+            "EstadoSalud": "regular",
+            "PesoKG": 14.0,
+            "ClubVIP": "S\u00ed"
+        }
+    }
+]
